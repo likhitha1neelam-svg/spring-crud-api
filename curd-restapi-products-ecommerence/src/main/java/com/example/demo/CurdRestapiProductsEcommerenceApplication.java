@@ -12,5 +12,3 @@ public class CurdRestapiProductsEcommerenceApplication {
 
 }
 
-
-//testing
